@@ -25,4 +25,5 @@ ran=random.randint(3,8)
 while x<ran:
     print(list1[x], end='')
     x=x+1
+print("\n Thank You!!!") 
 
